@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デジャ・ヴュー",
+  "base_artist": "appy",
+  "createdAt": "2026-02-16T08:05:51.992617Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デジャ・ヴュー",
+      "artist": "appy feat.可不",
+      "has_synced": false,
+      "path": "select/pl_01_デジャ・ヴュー_appy_feat.可不.txt"
+    }
+  ]
+}
